@@ -1,16 +1,28 @@
-# React + Vite
+## 🎬 MovieVerse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MovieVerse is a movie discovery web application built using React, Vite, Tailwind CSS, and the TMDB API. It allows users to browse trending movies, search for movies, and view detailed information about each movie through a clean and responsive interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Browse popular movies from TMDB
+- Search movies by title
+- View detailed movie information
+- Dynamic routing with React Router
+- Responsive movie cards
+- TMDB API integration
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- TMDB API
+- JavaScript
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+---
+
+⚠️ This product uses the TMDB API but is not endorsed or certified by TMDB.
