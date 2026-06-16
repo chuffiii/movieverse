@@ -1,5 +1,0 @@
-@import "tailwindcss";
-
-.search-bar {
-    @apply w-full border border-slate-500 rounded-full;
-}
